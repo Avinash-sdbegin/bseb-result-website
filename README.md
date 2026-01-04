@@ -84,6 +84,6 @@ This is intentionally kept simple as my first project. It represents my initial 
 
 ---
 
--**Created by**: AVINASH KUMAR
--**Date**: DECEMBER 2024 
--**Learning Journey**: Just Beginning! 🚀
+- **Created by**: AVINASH KUMAR
+- **Date**: DECEMBER 2024 
+- **Learning Journey**: Just Beginning! 🚀
