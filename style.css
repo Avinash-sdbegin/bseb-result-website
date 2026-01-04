@@ -19,5 +19,13 @@
    h3{
     text-align: center;
     font-size:x-large;
-
    }
+.last{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: 600px;
+      width: 800px;
+      border-radius: 20px;
+   }
+
