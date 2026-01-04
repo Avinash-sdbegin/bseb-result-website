@@ -4,7 +4,6 @@
 
 **Deployment Link**: [View Live Project](https://avinash-sdbegin.github.io/bseb-result-website/)
 
-> Replace `your-deployment-link-here` with your actual deployment URL (https://avinash-sdbegin.github.io/bseb-result-website/)
 
 ## 📚 About This Project
 
